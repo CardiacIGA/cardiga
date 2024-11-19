@@ -31,4 +31,9 @@ The structure of the repository is as follows:
 
 ## How to use the module
 
-After cloning the repository in your desired local folder, CardIGA can be installed by specifying "pip install -e ." inside the folder where the repository is cloned. The module can then be used by simply importing it: "import cardiga".
+After cloning the repository in your desired local folder, CardIGA can be installed by specifying "pip install -e ." inside the folder where the repository is cloned. The module can then be used by simply importing it: "import cardigan".
+
+## Citing this module
+
+Please consider citing this module when using it:
+Willems, R., Janssens, K. L., Bovendeerd, P. H., Verhoosel, C. V., & van der Sluis, O. (2024). An isogeometric analysis framework for ventricular cardiac mechanics. Computational Mechanics, 73(3), 465-506. DOI: https://doi.org/10.1007/s00466-023-02376-x

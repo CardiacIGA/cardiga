@@ -16,6 +16,6 @@ setup(name     = 'cardiga',
       author   = 'Robin Willems',
       packages = ['cardiga'],
       description      = 'Isogeometric analysis (IGA) for cardiac mechanics',
-      download_url     = 'https://gitlab.tue.nl/iga-heart-model/cardiac-model/-/tree/main',
+      download_url     = 'https://github.com/CardiacIGA/cardiga/tree/main',
       long_description = long_description,
       zip_safe = False)

@@ -12,7 +12,7 @@ with open(os.path.join('cardiga', '__init__.py')) as f:
   version = next(filter(None, map(re.compile("^version = '([a-zA-Z0-9.]+)'$").match, f))).group(1)
 
 setup(name     = 'cardiga',
-      version  = '1.0',
+      version  = '2.0',
       author   = 'Robin Willems',
       packages = ['cardiga'],
       description      = 'Isogeometric analysis (IGA) for cardiac mechanics',
